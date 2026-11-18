@@ -13,3 +13,6 @@ clean:
 	mkdir bin
 
 
+edit:
+	nano src/boot.asm
+
